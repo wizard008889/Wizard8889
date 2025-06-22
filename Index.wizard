@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>W!ZARD | Ethical Hacker</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #0f0f0f;
+      color: #ffffff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+    header {
+      text-align: center;
+      margin-top: 50px;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+    }
+    p.bio {
+      font-size: 1.2em;
+      max-width: 600px;
+      text-align: center;
+      color: #cccccc;
+    }
+    .contact {
+      margin-top: 40px;
+      background-color: #1a1a1a;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(255,255,255,0.1);
+    }
+    .contact a {
+      color: #00ffcc;
+      text-decoration: none;
+      font-size: 1.2em;
+    }
+    .contact a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>W!ZARD</h1>
+    <p class="bio">An ethical hacker who can help you in your social security.</p>
+  </header>  <section class="contact">
+    <h2
